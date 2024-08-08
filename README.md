@@ -5,7 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=doctorflutter" alt="doctorflutter" /></a> </p>
 
+- 👨‍💻 All of my projects are available at [https://mrthree.netlify.app/](https://mrthree.netlify.app/)
+
 - 💬 Ask me about **Flutter, Android, IOS, Web_Development**
+
+- 📫 How to reach me **ravalvivek2115@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1yxj9yLZ8ejXxtldRu3T8CnqH0Np6H0k_/view?usp=sharing](https://drive.google.com/file/d/1yxj9yLZ8ejXxtldRu3T8CnqH0Np6H0k_/view?usp=sharing)
+
+- ⚡ Fun fact **I am Sincere Boy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
