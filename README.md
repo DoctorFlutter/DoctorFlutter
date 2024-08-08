@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=doctorflutter" alt="doctorflutter" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://mrthree.netlify.app/](https://mrthree.netlify.app/)
+- 👨‍💻 All of my info are available at [https://mrthree.netlify.app/](https://mrthree.netlify.app/)
 
 - 💬 Ask me about **Flutter, Android, IOS, Web_Development**
 
