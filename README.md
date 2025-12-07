@@ -16,7 +16,7 @@
       <ul>
         <li>I am an experienced <strong>Flutter & iOS Developer</strong>.</li>
         <li>🎓 Currently pursuing <strong>MCA</strong>.</li>
-        <li>💬 Ask me about **Flutter, Android, IOS, Web_Developmen</li>
+        <li>💬 Ask me about Flutter, Android, IOS, Web_Developmen</li>
         <li>⚡ Fun fact: <strong>I am a Sincere Boy 😜😁</strong></li>
         <li>📫 Contact: <a href="mailto:ravalvivek2115@gmail.com">ravalvivek2115@gmail.com</a></li>
       </ul>
