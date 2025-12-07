@@ -1,74 +1,31 @@
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Hi!+%F0%9F%91%8B+I'm+DoctorFlutter;Mobile+App+Developer+%F0%9F%93%B1;Flutter+%7C+iOS+%7C+Android;Creating+Smart+Solutions+%F0%9F%9A%80" alt="Typing SVG" />
-  </a>
-</div>
+<h1 align="center">Hi 👋, I'm DoctorFlutter</h1>
+<h3 align="center">I am an experienced and dedicated App & iOS Developer with a specialization in Flutter technology. With a passion for creating innovative and user-friendly mobile applications, I have successfully developed and deployed numerous projects for clients across various industries.</h3>
 
-<br />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=doctorflutter&label=Profile%20views&color=0e75b6&style=flat" alt="doctorflutter" /> </p>
 
-<table align="center" border="0" bgcolor="#0d1117">
-  <tr>
-    <td width="30%" align="center" style="border: none;">
-      <img src="https://github.com/doctorflutter.png" width="150" height="150" style="border-radius: 50%; border: 3px solid #2196F3;" alt="DoctorFlutter Avatar" />
-    </td>
-    <td width="70%" valign="middle" style="border: none;">
-      <h3 style="color: #2196F3;">👨‍💻 About Me</h3>
-      <ul>
-        <li>I am an experienced <strong>Flutter & iOS Developer</strong>.</li>
-        <li>🎓 Currently pursuing <strong>MCA</strong>.</li>
-        <li>💬 Ask me about Flutter, Android, IOS, Web_Development</li>
-        <li>⚡ Fun fact: <strong>I am a Sincere Boy 😜😁</strong></li>
-        <li>📫 Contact: <a href="mailto:ravalvivek2115@gmail.com">ravalvivek2115@gmail.com</a></li>
-      </ul>
-      <p>
-         <a href="https://mrthree.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Site-blue?style=for-the-badge&logo=vercel" /></a>
-         <a href="https://drive.google.com/file/d/1yxj9yLZ8ejXxtldRu3T8CnqH0Np6H0k_/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-View%20PDF-FF5722?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" /></a>
-      </p>
-    </td>
-  </tr>
-</table>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=doctorflutter" alt="doctorflutter" /></a> </p>
 
----
+- 👨‍💻 All of my info are available at [https://mrthree.netlify.app/](https://mrthree.netlify.app/)
 
-<h3 align="center">🛠️ Languages & Tools</h3>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,android,swift,java&theme=dark" />
-  <br/><br/>
-  <img src="https://skillicons.dev/icons?i=python,django,html,css,bootstrap,php,mysql&theme=dark" />
-  <br/><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,firebase,aws,gcp,postman,vscode&theme=dark" />
-</div>
+- 💬 Ask me about **Flutter, Android, IOS, Web_Development**
 
----
+- 📫 How to reach me **ravalvivek2115@gmail.com**
 
-<h3 align="center">📊 GitHub Stats</h3>
+- 📄 Know about my experiences [Click To Show Resume](https://drive.google.com/file/d/1yxj9yLZ8ejXxtldRu3T8CnqH0Np6H0k_/view?usp=sharing)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=doctorflutter&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=doctorflutter&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="150" alt="languages graph" />
-</div>
+- ⚡ Fun fact **I am Sincere Boy 😜😁**
 
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=doctorflutter&theme=tokyonight&hide_border=true" alt="streak stats" />
-</div>
-
----
-
-<h3 align="center">🤝 Connect With Me</h3>
-
-<p align="center">
-  <a href="https://linkedin.com/in/raval-vivek-6b0823223"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://instagram.com/r_a_v_a_l_v_i_v_e_k_3"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/raval-vivek-6b0823223" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raval-vivek-6b0823223" height="30" width="40" /></a>
+<a href="https://instagram.com/r_a_v_a_l_v_i_v_e_k_3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="r_a_v_a_l_v_i_v_e_k_3" height="30" width="40" /></a>
 </p>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=doctorflutter&label=Profile%20Views&color=0e75b6&style=flat-square" />
-</div>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<br/>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=doctorflutter&show_icons=true&locale=en&layout=compact" alt="doctorflutter" /></p>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="footer animation" />
-</div>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=doctorflutter&show_icons=true&locale=en" alt="doctorflutter" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=doctorflutter&" alt="doctorflutter" /></p>
