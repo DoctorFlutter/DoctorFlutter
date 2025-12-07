@@ -21,8 +21,7 @@
 
 ## 💎 About Me
 
-txt
-👨‍⚕️ Code Name      : DoctorFlutter
-🎯 Expertise       : Flutter & Cross-Platform Apps
-🎨 Love For        : UI/UX + Animations
-🚀 Experience      : Real-world App Development
+-👨‍⚕️ Code Name      : DoctorFlutter
+-🎯 Expertise       : Flutter & Cross-Platform Apps
+-🎨 Love For        : UI/UX + Animations
+-🚀 Experience      : Real-world App Development
